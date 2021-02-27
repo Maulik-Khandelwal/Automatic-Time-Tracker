@@ -1,102 +1,60 @@
 {
     "activities": [
         {
-            "name": "Automatic Time Tracker [C:\\Users\\Hp\\Desktop\\STUDY\\Python Projcts\\Automatic Time Tracker] - ...\\autotimer.py - PyCharm",
-            "time_entries": [
-                {
-                    "days": 0,
-                    "end_time": "2021-02-27 17:19:39",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 4,
-                    "start_time": "2021-02-27 17:19:35"
-                },
-                {
-                    "days": 0,
-                    "end_time": "2021-02-27 17:20:10",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 1,
-                    "start_time": "2021-02-27 17:20:09"
-                }
-            ]
-        },
-        {
             "name": "Automatic Time Tracker [C:\\Users\\Hp\\Desktop\\STUDY\\Python Projcts\\Automatic Time Tracker] - ...\\activities.json - PyCharm",
             "time_entries": [
                 {
                     "days": 0,
-                    "end_time": "2021-02-27 17:19:46",
+                    "end_time": "2021-02-27 17:24:40",
                     "hours": 0,
                     "minutes": 0,
-                    "seconds": 7,
-                    "start_time": "2021-02-27 17:19:39"
+                    "seconds": 12,
+                    "start_time": "2021-02-27 17:24:28"
                 },
                 {
                     "days": 0,
-                    "end_time": "2021-02-27 17:20:02",
+                    "end_time": "2021-02-27 17:24:54",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2021-02-27 17:24:46"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2021-02-27 17:27:29",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "start_time": "2021-02-27 17:27:19"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2021-02-27 17:27:47",
                     "hours": 0,
                     "minutes": 0,
                     "seconds": 8,
-                    "start_time": "2021-02-27 17:19:53"
+                    "start_time": "2021-02-27 17:27:39"
                 },
                 {
                     "days": 0,
-                    "end_time": "2021-02-27 17:20:08",
+                    "end_time": "2021-02-27 17:28:00",
                     "hours": 0,
                     "minutes": 0,
                     "seconds": 1,
-                    "start_time": "2021-02-27 17:20:07"
-                },
-                {
-                    "days": 0,
-                    "end_time": "2021-02-27 17:20:53",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 26,
-                    "start_time": "2021-02-27 17:20:27"
+                    "start_time": "2021-02-27 17:27:58"
                 }
             ]
         },
         {
-            "name": "File Cache Conflict",
+            "name": "portfolio \u2013 project_view_desktop.dart [portfolio] Android Studio",
             "time_entries": [
                 {
                     "days": 0,
-                    "end_time": "2021-02-27 17:19:53",
+                    "end_time": "2021-02-27 17:24:46",
                     "hours": 0,
                     "minutes": 0,
-                    "seconds": 7,
-                    "start_time": "2021-02-27 17:19:46"
-                },
-                {
-                    "days": 0,
-                    "end_time": "2021-02-27 17:20:07",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 4,
-                    "start_time": "2021-02-27 17:20:03"
-                },
-                {
-                    "days": 0,
-                    "end_time": "2021-02-27 17:20:27",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 15,
-                    "start_time": "2021-02-27 17:20:12"
-                }
-            ]
-        },
-        {
-            "name": "github.com",
-            "time_entries": [
-                {
-                    "days": 0,
-                    "end_time": "2021-02-27 17:20:03",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 1,
-                    "start_time": "2021-02-27 17:20:02"
+                    "seconds": 6,
+                    "start_time": "2021-02-27 17:24:40"
                 }
             ]
         },
@@ -105,45 +63,37 @@
             "time_entries": [
                 {
                     "days": 0,
-                    "end_time": "2021-02-27 17:20:09",
+                    "end_time": "2021-02-27 17:27:35",
                     "hours": 0,
                     "minutes": 0,
-                    "seconds": 1,
-                    "start_time": "2021-02-27 17:20:08"
-                },
-                {
-                    "days": 0,
-                    "end_time": "2021-02-27 17:20:12",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 2,
-                    "start_time": "2021-02-27 17:20:10"
+                    "seconds": 6,
+                    "start_time": "2021-02-27 17:27:29"
                 }
             ]
         },
         {
-            "name": "Commit Changes",
+            "name": "Automatic Time Tracker [C:\\Users\\Hp\\Desktop\\STUDY\\Python Projcts\\Automatic Time Tracker] - ...\\autotimer.py - PyCharm",
             "time_entries": [
                 {
                     "days": 0,
-                    "end_time": "2021-02-27 17:21:00",
+                    "end_time": "2021-02-27 17:27:39",
                     "hours": 0,
                     "minutes": 0,
-                    "seconds": 7,
-                    "start_time": "2021-02-27 17:20:53"
+                    "seconds": 4,
+                    "start_time": "2021-02-27 17:27:35"
                 }
             ]
         },
         {
-            "name": "Commit Message Is Empty",
+            "name": "codechef.com",
             "time_entries": [
                 {
                     "days": 0,
-                    "end_time": "2021-02-27 17:21:02",
+                    "end_time": "2021-02-27 17:30:54",
                     "hours": 0,
-                    "minutes": 0,
+                    "minutes": 3,
                     "seconds": 2,
-                    "start_time": "2021-02-27 17:21:00"
+                    "start_time": "2021-02-27 17:27:52"
                 }
             ]
         }
